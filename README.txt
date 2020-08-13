@@ -1,1 +1,1 @@
-My project's README.txt
+My project's README.txt.
